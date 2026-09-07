@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FILE_INFO>
     <BASIC_INFO>
-        <STATE NAME="OWNER" TYPE="string" VALUE="glass" />
+        <STATE NAME="OWNER" TYPE="string" VALUE="John" />
     </BASIC_INFO>
 </FILE_INFO>
